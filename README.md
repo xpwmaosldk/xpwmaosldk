@@ -4,7 +4,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=xpwmaosldk)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=xpwmaosldk&show_icons=true)
-[![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xpwmaosldk&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/xpwmaosldk)
+[![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xpwmaosldk&show_icons=true&hide_border=true&title_color=5c0086&icon_color=5c0086&layout=compact)](https://github.com/xpwmaosldk)
 <!--
 **xpwmaosldk/xpwmaosldk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
