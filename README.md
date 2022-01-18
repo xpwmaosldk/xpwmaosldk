@@ -3,7 +3,7 @@
 
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=xpwmaosldk&show_icons=true&theme=dracula) [![github stats](https://github-readme-stats.vercel.app/api/top-langs/?hide=javascript&username=xpwmaosldk&show_icons=true&hide_border=false&layout=compact&theme=dracula)](https://github.com/xpwmaosldk)
+![github stats](https://github-readme-stats.vercel.app/api?username=xpwmaosldk&show_icons=true&theme=dracula) [![github stats](https://github-readme-stats.vercel.app/api/top-langs/?exclude_repo=xpwmaosldk.github.io&username=xpwmaosldk&show_icons=true&hide_border=false&layout=compact&theme=dracula)](https://github.com/xpwmaosldk)
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=xpwmaosldk) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=xpwmaosldk&theme=dracula&row=1)](https://github.com/xpwmaosldk)
 <!--
