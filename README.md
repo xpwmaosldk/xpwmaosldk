@@ -5,8 +5,9 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
 <br>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/></a> 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/></a> 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/></a> 
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white"/></a>
 <br>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/></a>
@@ -16,7 +17,8 @@
 <br>
 
 [![github stats](https://github-readme-stats.vercel.app/api/top-langs/?exclude_repo=xpwmaosldk.github.io&username=xpwmaosldk&show_icons=true&hide_border=false&layout=compact&theme=dracula)](https://github.com/xpwmaosldk)<br>
-![github stats](https://github-readme-stats.vercel.app/api?username=xpwmaosldk&show_icons=true&theme=dracula)<br>
+![github stats](https://github-readme-stats.vercel.app/api?username=xpwmaosldk&show_icons=true&theme=dracula)
+<a href="https://blogdeveloperspot.blogspot.com" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=Blogger&logoColor=white"/></a><br>
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=xpwmaosldk) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=xpwmaosldk&theme=dracula&row=1)](https://github.com/xpwmaosldk)<br>
 <br>
