@@ -12,6 +12,11 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white"/></a>
 <br>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=flat&logo=JSON%20Web%20Tokens&logoColor=white"/></a>
+<br>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white"/></a>
+<br>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/NGINX-3009639?style=flat&logo=NGINX&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/></a>
@@ -22,15 +27,16 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a>
 <br>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white"/></a>
-<br>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=GitLab&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"/></a>
 <br>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white"/></a>
+<br>
+
 
 [![github stats](https://github-readme-stats.vercel.app/api/top-langs/?exclude_repo=xpwmaosldk.github.io&username=xpwmaosldk&show_icons=true&hide_border=false&layout=compact&theme=dracula)](https://github.com/xpwmaosldk)<br>
 ![github stats](https://github-readme-stats.vercel.app/api?username=xpwmaosldk&show_icons=true&theme=dracula)
