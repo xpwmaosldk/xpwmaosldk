@@ -18,7 +18,7 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api/top-langs/?exclude_repo=xpwmaosldk.github.io&username=xpwmaosldk&show_icons=true&hide_border=false&layout=compact&theme=dracula)](https://github.com/xpwmaosldk)<br>
 ![github stats](https://github-readme-stats.vercel.app/api?username=xpwmaosldk&show_icons=true&theme=dracula)
-<a href="#" onclick='window.open("https://blogdeveloperspot.blogspot.com");return false;'><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=Blogger&logoColor=white"/></a><br>
+<a href="https://blogdeveloperspot.blogspot.com" target='_blank'><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=Blogger&logoColor=white"/></a><br>
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=xpwmaosldk) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=xpwmaosldk&theme=dracula&row=1)](https://github.com/xpwmaosldk)<br>
 <br>
