@@ -1,4 +1,19 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
+<br>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/></a> 
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/></a> 
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/></a>
+<br>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/></a>
+<br>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a>
+<br>
 <img src="https://postfiles.pstatic.net/MjAyMTAxMDVfMTg5/MDAxNjA5ODEyMjc2NjQ3.gapiZqWIC7QD7A2XKeSc1vEEsvex_QfaeMZ1Q3kp9jMg.qmZGYhXPtGWk444Ca73jzHsOPVHrP6goc8sPkgl7UJUg.JPEG.gitacademy01/6.JPG?type=w966" width="300px" height="300px">
 
 
