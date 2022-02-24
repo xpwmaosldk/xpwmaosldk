@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxpwmaosldk&count_bg=%23FA0000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=welcome&edge_flat=false)](https://blogdeveloperspot.blogspot.com)
 <!-- [![My First pub.dev package]()](https://pub.dev/packages/number_pagination)<br> -->
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/></a>
