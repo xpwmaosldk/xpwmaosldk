@@ -61,7 +61,11 @@
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=xpwmaosldk) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=xpwmaosldk&theme=dracula&row=1)](https://github.com/xpwmaosldk)<br>
 <br>
-<img src="https://postfiles.pstatic.net/MjAyMTAxMDVfMTg5/MDAxNjA5ODEyMjc2NjQ3.gapiZqWIC7QD7A2XKeSc1vEEsvex_QfaeMZ1Q3kp9jMg.qmZGYhXPtGWk444Ca73jzHsOPVHrP6goc8sPkgl7UJUg.JPEG.gitacademy01/6.JPG?type=w966" width="300px" height="300px">
+
+<a href="https://blogdeveloperspot.blogspot.com"><img src="https://postfiles.pstatic.net/MjAyMTAxMDVfMTg5/MDAxNjA5ODEyMjc2NjQ3.gapiZqWIC7QD7A2XKeSc1vEEsvex_QfaeMZ1Q3kp9jMg.qmZGYhXPtGWk444Ca73jzHsOPVHrP6goc8sPkgl7UJUg.JPEG.gitacademy01/6.JPG?type=w966" width="250px" height="250px"></a>
+
+
+
 
 <!--
 **xpwmaosldk/xpwmaosldk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
