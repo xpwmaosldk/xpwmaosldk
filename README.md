@@ -73,7 +73,7 @@
 <br>
 
 <!-- https://metrics.lecoq.io/ -->
-![Metrics](https://metrics.lecoq.io/xpwmaosldk?template=classic&base.header=0&achievements=1&introduction=1&stackoverflow=1&base.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&introduction.title=true&stackoverflow.user=8912043&stackoverflow.sections=answers-top&stackoverflow.limit=2&stackoverflow.lines=2&stackoverflow.lines.snippet=3&config.timezone=Asia%2FTokyo)
+![Metrics](https://metrics.lecoq.io/xpwmaosldk?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FTokyo)
 
 
 
