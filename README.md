@@ -4,6 +4,10 @@
 ![Metrics](https://metrics.lecoq.io/xpwmaosldk?template=classic&base.header=0&achievements=1&introduction=1&stackoverflow=1&base.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&introduction.title=true&stackoverflow.user=8912043&stackoverflow.sections=answers-top&stackoverflow.limit=2&stackoverflow.lines=2&stackoverflow.lines.snippet=3&config.timezone=Asia%2FTokyo)
 
 
+<a href="https://blogdeveloperspot.blogspot.com" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/8912043/taz" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+<br>
+
 <!-- ### Hi there 👋 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxpwmaosldk&count_bg=%23FA0000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=welcome&edge_flat=false)](https://blogdeveloperspot.blogspot.com)
 [![GitHub User's stars](https://img.shields.io/github/stars/xpwmaosldk?style=social)](https://blogdeveloperspot.blogspot.com)
@@ -11,58 +15,60 @@
 
 <!-- [![My First pub.dev package]()](https://pub.dev/packages/number_pagination)<br> -->
 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
 <br>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/></a> 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js%20Boot&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js%20Boot&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a> 
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 <br>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/></a>
 <br>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Google%20Play-414141?style=flat&logo=Google%20Play&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=flat&logo=App%20Store&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
 <br>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/iBeacon-3D7EBB?style=flat&logo=iBeacon&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=flat&logo=JSON%20Web%20Tokens&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/iBeacon-3D7EBB?style=for-the-badge&logo=iBeacon&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=white"/></a>
 <br>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/></a>
 <br>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/NGINX-3009639?style=flat&logo=NGINX&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></a>
 <br>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white"/></a>
 <br>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
 <br>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=GitLab&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/></a>
 <br>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/></a>
 <br>
-
-
 [![github stats](https://github-readme-stats-ebon-zeta.vercel.app/api/top-langs/?exclude_repo=xpwmaosldk.github.io&username=xpwmaosldk&show_icons=true&hide_border=false&layout=compact&theme=dracula)](https://github.com/xpwmaosldk)<br>
 ![github stats](https://github-readme-stats-ebon-zeta.vercel.app/api?username=xpwmaosldk&show_icons=true&theme=dracula)
-<a href="https://blogdeveloperspot.blogspot.com" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=Blogger&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/8912043/taz" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=Stack%20Overflow&logoColor=white"/></a>
 <br>
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=xpwmaosldk) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=xpwmaosldk&theme=dracula&row=1)](https://github.com/xpwmaosldk)<br>
