@@ -1,3 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=League+Script&size=25&lines=I+believe+I+can+flutter)](https://git.io/typing-svg)
+
+<!-- https://metrics.lecoq.io/ -->
+![Metrics](https://metrics.lecoq.io/xpwmaosldk?template=classic&base.header=0&achievements=1&introduction=1&stackoverflow=1&base.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&introduction.title=true&stackoverflow.user=8912043&stackoverflow.sections=answers-top&stackoverflow.limit=2&stackoverflow.lines=2&stackoverflow.lines.snippet=3&config.timezone=Asia%2FTokyo)
+
+
 <!-- ### Hi there 👋 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxpwmaosldk&count_bg=%23FA0000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=welcome&edge_flat=false)](https://blogdeveloperspot.blogspot.com)
 [![GitHub User's stars](https://img.shields.io/github/stars/xpwmaosldk?style=social)](https://blogdeveloperspot.blogspot.com)
