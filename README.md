@@ -1,13 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=League+Script&size=25&lines=I+believe+I+can+flutter)](https://git.io/typing-svg)
 
-<!-- https://metrics.lecoq.io/ -->
-![Metrics](https://metrics.lecoq.io/xpwmaosldk?template=classic&base.header=0&achievements=1&introduction=1&stackoverflow=1&base.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&introduction.title=true&stackoverflow.user=8912043&stackoverflow.sections=answers-top&stackoverflow.limit=2&stackoverflow.lines=2&stackoverflow.lines.snippet=3&config.timezone=Asia%2FTokyo)
-
-
 <a href="https://blogdeveloperspot.blogspot.com" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/8912043/taz" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-<br>
 
+
+<a href="https://blogdeveloperspot.blogspot.com"><img src="https://postfiles.pstatic.net/MjAyMTAxMDVfMTg5/MDAxNjA5ODEyMjc2NjQ3.gapiZqWIC7QD7A2XKeSc1vEEsvex_QfaeMZ1Q3kp9jMg.qmZGYhXPtGWk444Ca73jzHsOPVHrP6goc8sPkgl7UJUg.JPEG.gitacademy01/6.JPG?type=w966" width="200px" height="200px"></a>
+<br>
 <!-- ### Hi there 👋 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxpwmaosldk&count_bg=%23FA0000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=welcome&edge_flat=false)](https://blogdeveloperspot.blogspot.com)
 [![GitHub User's stars](https://img.shields.io/github/stars/xpwmaosldk?style=social)](https://blogdeveloperspot.blogspot.com)
@@ -74,7 +72,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=xpwmaosldk&theme=dracula&row=1)](https://github.com/xpwmaosldk)<br>
 <br>
 
-<a href="https://blogdeveloperspot.blogspot.com"><img src="https://postfiles.pstatic.net/MjAyMTAxMDVfMTg5/MDAxNjA5ODEyMjc2NjQ3.gapiZqWIC7QD7A2XKeSc1vEEsvex_QfaeMZ1Q3kp9jMg.qmZGYhXPtGWk444Ca73jzHsOPVHrP6goc8sPkgl7UJUg.JPEG.gitacademy01/6.JPG?type=w966" width="250px" height="250px"></a>
+<!-- https://metrics.lecoq.io/ -->
+![Metrics](https://metrics.lecoq.io/xpwmaosldk?template=classic&base.header=0&achievements=1&introduction=1&stackoverflow=1&base.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&introduction.title=true&stackoverflow.user=8912043&stackoverflow.sections=answers-top&stackoverflow.limit=2&stackoverflow.lines=2&stackoverflow.lines.snippet=3&config.timezone=Asia%2FTokyo)
 
 
 
