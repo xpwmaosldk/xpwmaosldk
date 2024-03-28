@@ -3,8 +3,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xpwmaosldk&theme=dracula&row=1)](https://github.com/xpwmaosldk)<br>
 <br>
-[![github stats](https://github-readme-stats-ebon-zeta.vercel.app/api/top-langs/?exclude_repo=xpwmaosldk.github.io&username=xpwmaosldk&show_icons=true&hide_border=false&layout=compact&theme=dracula)](https://github.com/xpwmaosldk)<br>
 ![github stats](https://github-readme-stats-ebon-zeta.vercel.app/api?username=xpwmaosldk&show_icons=true&theme=dracula)
+[![github stats](https://github-readme-stats-ebon-zeta.vercel.app/api/top-langs/?exclude_repo=xpwmaosldk.github.io&username=xpwmaosldk&show_icons=true&hide_border=false&layout=compact&theme=dracula)](https://github.com/xpwmaosldk)<br>
 <br>
 
 
