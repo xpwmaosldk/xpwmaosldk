@@ -1,11 +1,16 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=25&multiline=true&lines=I+believe+I+can+flutter)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=xpwmaosldk) -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=xpwmaosldk&theme=dracula&row=1)](https://github.com/xpwmaosldk)<br>
+<br>
+[![github stats](https://github-readme-stats-ebon-zeta.vercel.app/api/top-langs/?exclude_repo=xpwmaosldk.github.io&username=xpwmaosldk&show_icons=true&hide_border=false&layout=compact&theme=dracula)](https://github.com/xpwmaosldk)<br>
+![github stats](https://github-readme-stats-ebon-zeta.vercel.app/api?username=xpwmaosldk&show_icons=true&theme=dracula)
+<br>
+
 
 <a href="https://blogdeveloperspot.blogspot.com" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/8912043/taz" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 
-
-<a href="https://blogdeveloperspot.blogspot.com"><img src="https://postfiles.pstatic.net/MjAyMTAxMDVfMTg5/MDAxNjA5ODEyMjc2NjQ3.gapiZqWIC7QD7A2XKeSc1vEEsvex_QfaeMZ1Q3kp9jMg.qmZGYhXPtGWk444Ca73jzHsOPVHrP6goc8sPkgl7UJUg.JPEG.gitacademy01/6.JPG?type=w966" width="200px" height="200px"></a>
-<br>
 <!-- ### Hi there 👋 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxpwmaosldk&count_bg=%23FA0000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=welcome&edge_flat=false)](https://blogdeveloperspot.blogspot.com)
 [![GitHub User's stars](https://img.shields.io/github/stars/xpwmaosldk?style=social)](https://blogdeveloperspot.blogspot.com)
@@ -68,17 +73,8 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/></a>
 <br>
-[![github stats](https://github-readme-stats-ebon-zeta.vercel.app/api/top-langs/?exclude_repo=xpwmaosldk.github.io&username=xpwmaosldk&show_icons=true&hide_border=false&layout=compact&theme=dracula)](https://github.com/xpwmaosldk)<br>
-![github stats](https://github-readme-stats-ebon-zeta.vercel.app/api?username=xpwmaosldk&show_icons=true&theme=dracula)
+<a href="https://blogdeveloperspot.blogspot.com"><img src="https://postfiles.pstatic.net/MjAyMTAxMDVfMTg5/MDAxNjA5ODEyMjc2NjQ3.gapiZqWIC7QD7A2XKeSc1vEEsvex_QfaeMZ1Q3kp9jMg.qmZGYhXPtGWk444Ca73jzHsOPVHrP6goc8sPkgl7UJUg.JPEG.gitacademy01/6.JPG?type=w966" width="100%" height="100%"></a>
 <br>
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=xpwmaosldk) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=xpwmaosldk&theme=dracula&row=1)](https://github.com/xpwmaosldk)<br>
-<br>
-
-<!-- https://metrics.lecoq.io/ -->
-[![Metrics](https://metrics.lecoq.io/xpwmaosldk?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FTokyo)](https://metrics.lecoq.io/xpwmaosldk?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FTokyo)<br>
-<br>
-
 
 
 
