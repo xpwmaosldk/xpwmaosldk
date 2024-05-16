@@ -1,11 +1,14 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=25&multiline=true&lines=I+believe+I+can+flutter)
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=xpwmaosldk) -->
 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=xpwmaosldk&theme=dracula&row=1)](https://github.com/xpwmaosldk)<br>
 <br>
 ![github stats](https://github-readme-stats-ebon-zeta.vercel.app/api?username=xpwmaosldk&show_icons=true&theme=dracula)
 [![github stats](https://github-readme-stats-ebon-zeta.vercel.app/api/top-langs/?exclude_repo=xpwmaosldk.github.io&username=xpwmaosldk&show_icons=true&hide_border=false&layout=compact&theme=dracula)](https://github.com/xpwmaosldk)<br>
 <br>
+
+![analytics](https://repobeats.axiom.co/api/embed/412316075438ad7a87c7147419920008689b3f2e.svg "Repobeats analytics image")
 
 
 <a href="https://blogdeveloperspot.blogspot.com" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
