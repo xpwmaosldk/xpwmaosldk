@@ -1,3 +1,6 @@
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=xpwmaosldk/number_pagination&type=Date)](https://star-history.com/#xpwmaosldk/number_pagination&Date)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=25&multiline=true&lines=I+believe+I+can+flutter)
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=xpwmaosldk) -->
 
