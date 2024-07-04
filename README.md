@@ -20,7 +20,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/xpwmaosldk?style=social)](https://blogdeveloperspot.blogspot.com)
 
 ### [![package](https://img.shields.io/badge/pub.dev-number__pagenation-0553B1)](https://pub.dev/packages/number_pagination)
-[![Star History Chart](https://api.star-history.com/svg?repos=xpwmaosldk/number_pagination&type=Date)](https://star-history.com/#xpwmaosldk/number_pagination&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=xpwmaosldk/number_pagination&type=Date)](https://pub.dev/packages/number_pagination)
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
