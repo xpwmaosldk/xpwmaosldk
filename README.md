@@ -1,6 +1,3 @@
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=xpwmaosldk/number_pagination&type=Date)](https://star-history.com/#xpwmaosldk/number_pagination&Date)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=25&multiline=true&lines=I+believe+I+can+flutter)
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=xpwmaosldk) -->
 
@@ -10,9 +7,9 @@
 ![github stats](https://github-readme-stats-ebon-zeta.vercel.app/api?username=xpwmaosldk&show_icons=true&theme=dracula)
 [![github stats](https://github-readme-stats-ebon-zeta.vercel.app/api/top-langs/?exclude_repo=xpwmaosldk.github.io&username=xpwmaosldk&show_icons=true&hide_border=false&layout=compact&theme=dracula)](https://github.com/xpwmaosldk)<br>
 <br>
-
+<!--
 ![analytics](https://repobeats.axiom.co/api/embed/412316075438ad7a87c7147419920008689b3f2e.svg "Repobeats analytics image")
-
+-->
 
 <a href="https://blogdeveloperspot.blogspot.com" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/8912043/taz" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
@@ -22,7 +19,8 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/xpwmaosldk?style=social)](https://blogdeveloperspot.blogspot.com)
 [![GitHub followers](https://img.shields.io/github/followers/xpwmaosldk?style=social)](https://blogdeveloperspot.blogspot.com)
 
-<!-- [![My First pub.dev package]()](https://pub.dev/packages/number_pagination)<br> -->
+### [![package](https://img.shields.io/badge/pub.dev-number__pagenation-0553B1)](https://pub.dev/packages/number_pagination)
+[![Star History Chart](https://api.star-history.com/svg?repos=xpwmaosldk/number_pagination&type=Date)](https://star-history.com/#xpwmaosldk/number_pagination&Date)
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
