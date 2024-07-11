@@ -1,7 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=25&multiline=true&lines=I+believe+I+can+flutter)
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=xpwmaosldk) -->
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=xpwmaosldk&theme=dracula&row=1)](https://github.com/xpwmaosldk)<br>
 <br>
 ![github stats](https://github-readme-stats-ebon-zeta.vercel.app/api?username=xpwmaosldk&show_icons=true&theme=dracula)
@@ -19,7 +18,10 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/xpwmaosldk?style=social)](https://blogdeveloperspot.blogspot.com)
 [![GitHub followers](https://img.shields.io/github/followers/xpwmaosldk?style=social)](https://blogdeveloperspot.blogspot.com)
 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q8BWZF)
 ### [![package](https://img.shields.io/badge/pub.dev-number__pagenation-0553B1)](https://pub.dev/packages/number_pagination)
+
 [![Star History Chart](https://api.star-history.com/svg?repos=xpwmaosldk/number_pagination&type=Date)](https://pub.dev/packages/number_pagination)
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
